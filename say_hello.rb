@@ -1,2 +1,1 @@
-puts "Hello Pair-Partner"
-puts "Hello Freddie"
+puts "Hello Eric"
